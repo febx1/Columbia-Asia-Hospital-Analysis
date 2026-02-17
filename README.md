@@ -66,7 +66,18 @@ This project provides a comprehensive data-driven evaluation of **Columbia Asia 
 ---
 
 ## 📊 Dashboard Preview
+
+
+### 📊 Dashboard
 ![Dashboard Screenshot](image.png)
+
+### 📉 Doctors Dashboard
+*Visualizing revenue distribution and departmental contribution margins.*
+![Financial Overview Dashboard](image2.png)
+
+### 📈 Patient Flow & Demand Dashboard
+*Analyzing seasonal trends, peak demand periods, and average wait times.*
+![Patient Flow Dashboard](image3.png)
 
 ---
 
