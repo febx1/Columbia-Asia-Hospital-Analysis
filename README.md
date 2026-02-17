@@ -9,6 +9,15 @@ This project provides a comprehensive data-driven evaluation of **Columbia Asia 
 
 ---
 
+## 🛠️ Tech Stack & Tools
+* **Power BI:** Used for creating the interactive end-to-end dashboard and data storytelling.
+* **DAX (Data Analysis Expressions):** Developed complex measures for weighted satisfaction, year-to-date revenue tracking, and departmental performance ratios.
+* **Power Query Editor:** Performed ETL (Extract, Transform, Load) processes, including data pivoting, type conversion, and handling null values to ensure data integrity.
+* **SQL:** Leveraged for initial data querying, filtering, and joining tables from the hospital's relational database.
+* **Microsoft Excel:** Utilized for preliminary data exploration, ad-hoc calculations, and pivot table validation.
+
+---
+
 ## 🚀 Key Features & Insights
 
 ### 💰 1. Financial Performance & Revenue Concentration
@@ -57,14 +66,14 @@ This project provides a comprehensive data-driven evaluation of **Columbia Asia 
 ---
 
 ## 📊 Dashboard Preview
-*(Tip: Add a screenshot of your Power BI/Excel dashboard here!)*
-`![Dashboard Screenshot](path/to/your/image.png)`
+![Dashboard Screenshot](image.png)
 
 ---
 
 ## 📂 Repository Structure
 ```bash
-├── Data/                 # Raw and Cleaned Datasets
-├── Dashboards/         # Power BI (.pbix) or Excel files
-├── Documentation/      # Final Report & Presentation
+├── Dashboard.pbix      # The Powerbi Dashboard File
+├── Presentations.docx  # Analysis 
+├── Presentation.pptx   # Final Report & Presentation
+├── PB Project SQL.sql  # SQL queries used
 └── README.md           # Project Summary
